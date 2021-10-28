@@ -1,0 +1,1 @@
+DELETE FROM market WHERE id IN ("miami", "atlanta");

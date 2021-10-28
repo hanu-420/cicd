@@ -1,0 +1,1 @@
+INSERT INTO market (id, name, region, type, urlPath, createdAt, updatedAt) VALUES ("miami","Miami","southern", "emerging", "miami", NOW(), NOW()), ("atlanta","Atlanta","southern", "emerging", "atlanta", NOW(), NOW());
